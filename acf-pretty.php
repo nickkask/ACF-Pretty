@@ -2,8 +2,9 @@
 /**
  * Plugin Name: ACF Pretty
  * Description: Custom ACF backend field styling with configurable brand colors.
- * Version: 1.2
- * Author: Kask Creativity
+ * Version: 1.2.1
+ * Author: Nick Kask
+ * Author URI: https://kaskcreativity.com
  * License: GPL-2.0+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
